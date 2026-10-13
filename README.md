@@ -1,6 +1,6 @@
 # Financial-Markets-Derivatives-Course-work-Case-Study
-Description
+Description/n
 This course aims to impart on the learner the features and characteristics of financial derivatives such as futures, swap, and options. The course focuses on three dimensions – valuation, trading and risk management of financial derivatives. Learning objectives-Students would comprehend various types of financial derivative instruments, their pricing and application for hedging and risk management principles
 
-Course Content
+Course Content/n
 PART 1 -Financial MarketsSecurity Markets- Trading /Quotes /Price Bands /Indices/ Market MakingFixed Income Markets- Instruments/Participants/Bench Mark ratesPART 2 Futures markets Introduction, Mechanics, Hedging strategies using futures, Determination of forward and futures prices, Interest rate futures PART 3 Options markets Mechanics of markets, Properties of stock options, trading strategies involving options, The Black–Scholes–Merton model, the binomial Pricing Theory, The Greek letters, Options on stock indices and currencies, Futures options, Volatility smiles PART 4 SwapsInterest Rate Swaps, Currency Swaps, Valuation of Interest rate swapsPART 5 Credit Derivatives Credit Default Swaps, Credit-Linked Notes
